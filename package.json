@@ -1,0 +1,25 @@
+{
+  "name": "backend-genesis",
+  "version": "1.0.0",
+  "description": "Providing a template for jump-starting backend projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "express"
+  ],
+  "author": "Johnpaul Nnaji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.21",
+    "dotenv": "^16.4.5",
+    "morgan": "^1.10.0"
+  }
+}
