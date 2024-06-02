@@ -1,3 +1,4 @@
+// importing core packages
 import mongoose from "mongoose";
 import http from "http";
 import dotenv from "dotenv";
@@ -5,6 +6,7 @@ import { resolve } from "path";
 
 dotenv.config({ path: resolve(__dirname, "../config.env") });
 
+// importing 3rd party package
 import app from "./app";
 
 mongoose
