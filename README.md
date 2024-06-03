@@ -5,29 +5,29 @@
 - [Trouble Shooting](#trouble-shooting)
 - [Credit](#credit)
 
-1. Introduction:
+## Introduction:
 
    <!-- Briefly introduce the topic or product the documentation is for. -->
 
-   **Backend Genesis** is a TypeScript Backend boiler-plate that you can use for your web or mobile application. It comes bundled with a few packages that makes your development work easier, faster, and cleaner.
+**Backend Genesis** is a TypeScript Backend boiler-plate that you can use for your web or mobile application. It comes bundled with a few packages that makes your development work easier, faster, and cleaner.
 
-   The goal of **Backend Genesis** is to simply reduce or eradicate the amount of time you spend building your developer enviroment for every new project you jump on.
+The goal of **Backend Genesis** is to simply reduce or eradicate the amount of time you spend building your developer enviroment for every new project you jump on.
 
    <!-- Outline the overall structure of the document. -->
    <!-- Define the target audience and their assumed level of knowledge. -->
 
-2. Getting Started:
+## Getting Started:
 
-   Provide installation instructions if applicable (software, hardware, etc.).
-   Outline the basic steps to get started using the product or service.
+   <!-- Provide installation instructions if applicable (software, hardware, etc.).
+   Outline the basic steps to get started using the product or service. -->
 
-3. Troubleshooting:
+## Troubleshooting:
 
-   Address common issues users might encounter.
-   Offer solutions or workarounds for known problems.
-   Provide clear steps for reporting bugs or requesting support.
+   <!-- Address common issues users might encounter. -->
+   <!-- Offer solutions or workarounds for known problems. -->
+   <!-- Provide clear steps for reporting bugs or requesting support. -->
 
-4. Credit:
+## Credit:
 
-   Include supplementary information like reference charts, data tables, or error codes.
-   Add a glossary of terms for quick reference.
+   <!-- Include supplementary information like reference charts, data tables, or error codes. -->
+   <!-- Add a glossary of terms for quick reference. -->
