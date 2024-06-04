@@ -65,8 +65,9 @@ npm install
 3. Start the Development Server
 
 ```bash
-npm run dev # to run in development mode using nodemon
-npm start # to run in production mode
+npm run dev # to compile and run in development mode using nodemon
+npm start # to compile and run in production mode
+npm compile # to compile the TS files in watch mode (during developemnt only)
 ```
 
    <!-- Provide installation instructions if applicable (software, hardware, etc.).
