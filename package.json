@@ -5,8 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "jest",
-    "dev": "nodemon ./dist/server.js",
-    "start": "node ./dist/server.js"
+    "dev": "tsc && nodemon ./dist/server.js",
+    "start": "tsc && node ./dist/server.js",
+    "compile": "tsc -w"
   },
   "keywords": [
     "typescript",
