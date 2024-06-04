@@ -85,11 +85,31 @@ npm start # to run in production mode
 
 ## Contributing:
 
-- Fork the repository on GitHub.
-- Make your changes and create a pull request.
-- Follow any contribution guidelines provided by the project.
+We welcome contributions from the community to help improve this project! Here are some guidelines to get you started:
 
-## Credit:
+#### Getting Started
+
+- Read the project documentation to understand the goals and architecture.
+- Check the issue tracker to see if your proposed change or feature is already being worked on.
+- Start small by fixing typos, adding comments, or addressing minor bugs to get familiar with the codebase.
+
+#### Making Changes
+
+- Fork the repository and create a new branch for your changes.
+- Follow the project's coding style and conventions.
+- Write clear, concise commit messages explaining your changes.
+<!-- - Include tests for any new functionality you add. -->
+
+#### Submitting Changes
+
+- Submit a pull request with your changes.
+- Explain the purpose and scope of your changes in the pull request description.
+- Be responsive to any feedback or requests for changes from maintainers.
+
+#### Other Ways to Contribute
+
+- Report bugs or request features by opening a new issue.
+- Improve the documentation by fixing typos or adding clarification
 
    <!-- Include supplementary information like reference charts, data tables, or error codes. -->
    <!-- Add a glossary of terms for quick reference. -->
