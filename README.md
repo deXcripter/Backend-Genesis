@@ -25,6 +25,7 @@ The goal of **Backend Genesis** is to simply reduce or eradicate the amount of t
 - Testing with Jest
 - Logging with morgan
 - Code formatter using Prettier
+- App testing using Jest
 
 #### File Structure
 
