@@ -78,6 +78,14 @@ npm compile # to compile the TS files in watch mode (during developemnt only)
    <!-- Provide installation instructions if applicable (software, hardware, etc.).
    Outline the basic steps to get started using the product or service. -->
 
+## Enviromentaø Variables
+
+| Variable    | Default Value | Use                               |
+| ----------- | ------------- | --------------------------------- |
+| DB          | -             | Connection to a database          |
+| CLIENT_PORT | 3000          | Allows Resource Sharing with CORS |
+| DB          | null          |                                   |
+
 ## Troubleshooting:
 
 - Common Issues:
