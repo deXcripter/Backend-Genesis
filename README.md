@@ -84,7 +84,7 @@ npm compile # to compile the TS files in watch mode (during developemnt only)
 | ----------- | ------------- | --------------------------------- |
 | DB          | -             | Connection to a database          |
 | CLIENT_PORT | 3000          | Allows Resource Sharing with CORS |
-| DB          | null          |                                   |
+
 
 ## Troubleshooting:
 
