@@ -7,14 +7,24 @@
 
 ## Introduction:
 
-**Backend Genesis** is a TypeScript Backend boiler-plate that you can use for your web or mobile application. It comes bundled with a few packages that makes your development work easier, faster, and cleaner.
+**Backend Genesis** is a TypeScript + Express.js boiler-plate that you can use for your web or mobile application. It comes bundled with a few packages that makes your development work easier, faster, and cleaner.
 
 The goal of **Backend Genesis** is to simply reduce or eradicate the amount of time you spend building your developer enviroment for every new project you jump on, and just get you started.
 
-#### Packages Bundled
+#### Tech Stack
 
-1. **TypeScript**: You can immediately begin writing your TS files on the go. Your compiled TS files gets emmitted to a /dist directory inside your parent directory.
-2. **Prettier**: To enhance the readability and elegance of your code, prettier also comes pre-bundled with this package.
+- TypeScript
+- Express.js
+- NPM
+
+#### Features
+
+- Cross-Origon Resource-Sharing enabled using CORS
+- Package management with NPM
+- Secured HTTP Headers using Helmet
+- Testing with Jest
+- Logging with morgan
+- Code formatter using Prettier
 
 #### File Structure
 
@@ -40,10 +50,6 @@ The goal of **Backend Genesis** is to simply reduce or eradicate the amount of t
       ├── README.md
       ├── tsconfig.json
       └── package.json.lock
-
-#### Target Audience
-
-This is specially for developers looking forward to building their Express backend applications with TypeScript.
 
 ## Getting Started:
 
