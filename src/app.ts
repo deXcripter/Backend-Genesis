@@ -4,8 +4,9 @@ import cors from "cors";
 
 const app = express();
 
-// client url
-const client = `http://localhost:${process.env.CLIENT_PORT || 3000}`;
+// variables for the client
+const protocol = process.env.NODE_ENV === "production" ? "https" : "http";
+const client = `${protocol}://localhost:${process.env.CLIENT_PORT || 3000}`;
 
 // middlewares
 app.use(helmet());
