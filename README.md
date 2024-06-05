@@ -2,10 +2,8 @@
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-<!-- - [File Structure](#file-structure) -->
 - [Trouble Shooting](#troubleshooting)
 - [Contributing](#contributing)
-- [Credit](#credit)
 
 ## Introduction:
 
@@ -78,7 +76,7 @@ npm compile # to compile the TS files in watch mode (during developemnt only)
 - Common Issues:
 
   Installation Errors: Check npm logs for specific errors and refer to relevant documentation.
-  Server Not Starting: Ensure you have Node.js and npm installed correctly. Double-check any configuration issues.
+  Server Not Starting: Ensure you have Node.js and npm installed correctly. Double-check any configuration issues, and also check to see if specified port is already in use.
 
 - Reporting Bugs:
 
